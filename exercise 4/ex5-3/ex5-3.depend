@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585291048 source:d:\codeprojects\cpp\2020.3.27\ex5-3\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+

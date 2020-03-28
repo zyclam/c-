@@ -1,0 +1,2 @@
+D:\CodeProjects\cpp\2020.3.27\Ex4-1\Debug\Ex4-1.exe
+D:\CodeProjects\cpp\2020.3.27\Ex4-1\Debug\Ex4-1.pdb
